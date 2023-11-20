@@ -1,2 +1,2 @@
-# CampusX-MLOPS
+# CampusX-MLOps
 Test repo for MLOPs session
